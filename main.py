@@ -1,8 +1,7 @@
 """
 ================================================================================
- 金融AI智能助手 — 完整项目示例
+ 金融AI智能助手
  功能：财报反欺诈 + 股权穿透 + 智能对话
- 适合：新手学习，代码逐行注释
 ================================================================================
 """
 import os
@@ -14,7 +13,7 @@ from collections import defaultdict
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# ── 新增：知识图谱模块 ──
+# ── 知识图谱模块 ──
 from graph_core import GraphStore, Entity, HoldingEdge, make_entity_id
 from entity_resolver import (
     EntityResolver, AliasDict, FuzzyMatcher, clean_entity_name,

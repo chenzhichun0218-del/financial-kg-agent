@@ -1,0 +1,34 @@
+# 环境变量 - 包含 API Key，绝不提交
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 数据（原始比赛数据过大 / 版权原因，不提交；.pkl 由 data_processor.py 生成）
+*.zip
+*.xlsx
+*.csv
+*.pkl
+
+# Office 文档（个人周报/工作总结/赛题材料，不入公开仓库；技术报告如需公开请转 Markdown 后单独加入）
+*.docx
+*.doc
+# Office 临时锁文件
+~$*
+
+# Claude Code 本地配置
+.claude/

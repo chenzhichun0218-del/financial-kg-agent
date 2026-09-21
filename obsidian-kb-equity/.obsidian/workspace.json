@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b9250c3ba95d83a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc1959e04700fa7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da477e7f003c3780",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "408a2b7f93b49f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "04afbda4d0cc973a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026cb56a03cbbb84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f08abdda96ebc479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5e11702238e70cce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb57337687b81638",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f4ce67a889fdaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bc85ff669927d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a2011b18ee825d39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "2d3bf6aa2acf59e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "36200b931e46be3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b785485634502ff1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "da477e7f003c3780",
+  "lastOpenFiles": [
+    "2026-08-07.md",
+    "穿透-600993_SH.md",
+    "柏才元.md",
+    "宁波凯铭投资管理合伙企业(有限合伙).md",
+    "浙江济和创业投资有限公司.md",
+    "杭州特瑞西创企业管理合伙企业(有限合伙).md",
+    "WANG YINXIANG.md",
+    "浙江贝成投资管理合伙企业(有限合伙).md",
+    "武汉东湖高新硅谷天堂股权投资合伙企业(有限合伙).md",
+    "武汉光谷人才创新投资合伙企业(有限合伙).md",
+    "珠海鹏盛一号股权投资合伙企业(有限合伙).md",
+    "海南中禾万芳管理合伙企业(有限合伙).md",
+    "深圳市倚锋九期创业投资中心(有限合伙).md",
+    "杭州贝铭股权投资基金合伙企业(有限合伙).md",
+    "广东弘远荣泽股权投资合伙企业(有限合伙).md",
+    "武汉光谷新技术产业投资有限公司.md",
+    "刘应华.md",
+    "中信建投基金-共赢53号员工参与战略配售集合资产管理计划.md",
+    "海南信熹投资管理合伙企业(有限合伙).md",
+    "武汉禾众共创企业管理合伙企业(有限合伙).md",
+    "深圳市倚锋睿意投资中心(有限合伙).md",
+    "武汉光谷生物产业创业投资基金有限公司.md",
+    "苏学腾.md",
+    "叶季平.md",
+    "贝达药业股份有限公司.md",
+    "上海同盛永盈企业管理中心(有限合伙).md"
+  ]
+}

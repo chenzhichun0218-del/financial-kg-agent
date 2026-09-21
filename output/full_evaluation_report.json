@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-08-08T04:31:58.113461",
+  "metrics": {
+    "1": {
+      "name": "1. 长文本问答事实召回/准确率",
+      "value": 84.48275862068965,
+      "target": 90,
+      "ok": false,
+      "detail": "think_acc=84.5%, recall=15.4%, samples=522"
+    },
+    "2": {
+      "name": "2. Agent API调用命中率",
+      "value": 91.30434782608695,
+      "target": 92,
+      "ok": false,
+      "detail": "21/23"
+    },
+    "3": {
+      "name": "3. 自纠错成功率",
+      "value": 100.0,
+      "target": 80,
+      "ok": true,
+      "detail": "16/16"
+    },
+    "4": {
+      "name": "4. 股权穿透链路准确率",
+      "value": 99.67154471544715,
+      "target": 85,
+      "ok": true,
+      "detail": "valid=30649/30750, depths={1: 5263, 3: 588, 2: 310}"
+    },
+    "5": {
+      "name": "5. 舆情事件簇召回率",
+      "value": 98.8119693,
+      "target": 85,
+      "ok": 

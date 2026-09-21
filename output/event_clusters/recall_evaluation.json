@@ -1,0 +1,146 @@
+{
+  "total_events": 7311,
+  "total_risk_events": 6429,
+  "total_clusters": 35,
+  "total_clustered": 7307,
+  "coverage_rate": 0.9995,
+  "type_recall": {
+    "行政处罚": 1.0,
+    "立案调查": 1.0,
+    "监管警示": 1.0,
+    "通报批评": 1.0,
+    "监管问询": 0.983739837398374,
+    "ST风险": 1.0,
+    "高管违规": 1.0,
+    "整改公告": 1.0,
+    "股权风险": 1.0,
+    "财务问题": 1.0,
+    "重组重整": 1.0,
+    "其他风险": 1.0
+  },
+  "avg_type_recall": 0.9986,
+  "top_stock_coverage": [
+    {
+      "code": "603377.SH",
+      "events": 36,
+      "risk_events": 28,
+      "types": 5
+    },
+    {
+      "code": "002656.SZ",
+      "events": 35,
+      "risk_events": 18,
+      "types": 5
+    },
+    {
+      "code": "600811.SH",
+      "events": 31,
+      "risk_events": 29,
+      "types": 6
+    },
+    {
+      "code": "002092.SZ",
+      "events": 31,
+      "risk_events": 31,
+      "types": 6
+    },
+    {
+      "code": "600289.SH",
+      "events": 29,
+      "risk_events": 14,
+      "types": 4
+    },
+    {
+      "code": "002309.SZ",
+      "events": 29,
+      "risk_events": 23,
+      "types": 5
+    },
+    {
+      "code": "300630.SZ",
+      "events": 28,
+      "risk_events": 28,
+      "types": 7
+    },
+    {
+      "code": "300280.SZ",
+      "events": 27,
+      "risk_events": 25,
+      "types": 5
+    },
+    {
+      "code": "002072.SZ",
+      "events": 26,
+      "risk_events": 26,
+      "types": 5
+    },
+    {
+      "code": "603716.SH",
+      "events": 25,
+      "risk_events": 21,
+      "types": 5
+    },
+    {
+      "code": "002586.SZ",
+      "events": 25,
+      "risk_events": 25,
+      "types": 5
+    },
+    {
+      "code": "000525.SZ",
+      "events": 25,
+      "risk_events": 12,
+      "types": 5
+    },
+    {
+      "code": "600804.SH",
+      "events": 24,
+      "risk_events": 23,
+      "types": 6
+    },
+    {
+      "code": "600338.SH",
+      "events": 23,
+      "risk_events": 18,
+      "types": 5
+    },
+    {
+      "code": "002742.SZ",
+      "events": 23,
+      "risk_events": 10,
+      "types": 3
+    },
+    {
+      "code": "002259.SZ",
+      "events": 23,
+      "risk_events": 23,
+      "types": 1
+    },
+    {
+      "code": "600136.SH",
+      "events": 22,
+      "risk_events": 22,
+      "types": 5
+    },
+    {
+      "code": "600200.SH",
+      "events": 21,
+      "risk_events": 21,
+      "types": 4
+    },
+    {
+      "code": "600190.SH",
+      "events": 21,
+      "risk_events": 19,
+      "types": 5
+    },
+    {
+      "code": "600360.SH",
+      "events": 21,
+      "risk_events": 16,
+      "types": 5
+    }
+  ],
+  "stocks_with_events": 100,
+  "stocks_with_risk_events": 100
+}

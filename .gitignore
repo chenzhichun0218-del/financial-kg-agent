@@ -32,3 +32,6 @@ Thumbs.db
 
 # Claude Code 本地配置
 .claude/
+
+# 个人资料（简历描述等，不入公开仓库）
+简历项目描述.md
